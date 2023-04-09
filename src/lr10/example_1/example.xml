@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+        
+    <book>
+                
+        <title>Война и мир</title>
+                
+        <author>Лев Толстой</author>
+                
+        <year>1869</year>
+            
+    </book>
+        
+
+    
+    <book>
+                
+        <title>изи катка</title>
+                
+        <author>Миков Сергей</author>
+                
+        <year>2023</year>
+            
+    </book>
+    
+</library>
