@@ -19,7 +19,7 @@ public class example_1 {
 
     public static void main(String[] args) {
         example_1 example_1 = new example_1();
-        example_1.set('Y');
+        example_1.set('з');
         example_1.info();
     }
 }

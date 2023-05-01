@@ -29,8 +29,6 @@ public class example_6 {
         return 1;
     }
 
-
-
     public static void main(String[] args) {
         example_6 primer = new example_6(5);
         primer.PrintInfo();
