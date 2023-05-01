@@ -27,7 +27,7 @@ public class example_7 {
             }
             a++;
         }
-        for (int i = 0; i < first_mass.length; i++) {   //печать массива
+        for (int i = 0; i < first_mass.length; i++) {
             for (int j = 0; j < first_mass[i].length; j++) {
                 System.out.print(first_mass[i][j] + " ");
             }

@@ -18,10 +18,8 @@ public class example_5 {
         System.out.println("Заполненный массив рандомными числами: ");
         for (int i = 0; i < first_mass.length; i++){
             for (int j = 0; j < first_mass[i].length; j++){
-
                 first_mass [i] [j] = random.nextInt(-100,100);
                 System.out.print(first_mass[i][j]+" ");
-
             }
             System.out.println("");
         }
