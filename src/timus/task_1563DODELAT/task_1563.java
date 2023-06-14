@@ -12,6 +12,7 @@ public class task_1563 {
 
         String shops[] = new String[N];
 
+        String ggwp = in.nextLine();
         for (int i = 0; i < shops.length; i++) {
             String k = in.nextLine();
             shops[i] = k;
@@ -32,6 +33,7 @@ public class task_1563 {
                 }
             }
         }
+        shops_not_visited--;
         System.out.println(shops_not_visited);
     }
 }
